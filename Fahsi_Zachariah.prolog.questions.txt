@@ -1,0 +1,73 @@
+Zachariah Fahsi
+CSCI 305
+Spring 2018
+Lab Questions
+=======================
+1. X = 'King George VI' 
+
+2. X = 'Queen Mary' 
+
+3. X = 'King George V' 
+
+4. X = 'King George V' 
+X = 'Queen Mary' 
+
+5. X = 'Prince William' 
+X = 'Prince Henry' 
+
+6. X = 'Princess Margaret' 
+
+7. X = 'Prince Charles' 
+X = 'Prince Andrew' 
+X = 'Prince Edward'.
+
+8. X = 'Princess Anne' 
+
+9. false.
+
+10. X = 'Catherine Middleton'.
+
+11. X = 'Prince Charles' 
+X = 'Lady Diana Spencer' 
+X = 'Prince Albert' 
+X = 'Queen Victoria' 
+X = 'King Edward VII' 
+X = 'Princess Alexandra of Denmark' 
+X = 'King George V' 
+X = 'Queen Mary' 
+X = 'King George VI' 
+X = 'Lady Elizabeth Bowes-Lyon' 
+X = 'Queen Elizabeth II' 
+X = 'Prince Philip' 
+
+12. false.
+
+13. false.
+
+14. X = 'Queen Victoria' 
+X = 'Princess Alexandra of Denmark' 
+X = 'Queen Mary' 
+X = 'Mrs Simpson' 
+X = 'Lady Elizabeth Bowes-Lyon' 
+X = 'Prince Albert' 
+X = 'King Edward VII' 
+X = 'King George V' 
+X = 'King Edward VIII' 
+X = 'King George VI' 
+X = 'Prince Philip' 
+
+15. X = 'King George V' 
+
+16. It is easy enough to write out the function in english so it is more easily understood.
+
+17. I don’t know the practical uses of it, and doing this lab did not feel like it was going to help me in the future, as I don’t know what prolog is used for.
+
+18. It was a fun lab.  It was fun figuring out the code that would return the right answer, and writing out the english first sometimes helped a lot in the creating on the code
+
+19. 3
+
+20. I will probably not use prolog again, I cannot think of a use that prolog would be more useful for me than another tool or language
+
+EC1. X = 'Lady Diana Spencer' 
+
+EC2. X = 'Lady Diana Spencer' 
