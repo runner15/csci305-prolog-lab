@@ -26,7 +26,7 @@ male('Prince William').
 male('Prince Henry').
 male('Prince George').
 male('Viscount Linley').
-mail('Antony Armstrong-Jones').
+male('Antony Armstrong-Jones').
 
 reigned('Queen Victoria', 1819, 1901).
 reigned('King Edward VII', 1901, 1910).
