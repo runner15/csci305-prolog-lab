@@ -64,7 +64,7 @@ X = 'Prince Philip'
 
 18. It was a fun lab.  It was fun figuring out the code that would return the right answer, and writing out the english first sometimes helped a lot in the creating on the code
 
-19. 3
+19. 3.5
 
 20. I will probably not use prolog again, I cannot think of a use that prolog would be more useful for me than another tool or language
 
