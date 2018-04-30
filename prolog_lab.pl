@@ -49,7 +49,7 @@ ancestor(A,D):- parent(A,C),ancestor(C,D).
 descendant(D,A):-ancestor(A,D).
 
 % X is older than Y provided that the birth year (Z) of X is lower than the birth year (W) of Y
-older(X,Y):- born(X,Z), born(Y,W), Z<W.
+older(X,Y):- born(X,Z), born(Y,W), Z<W, \+ died(X,_), \+ died(Y,_).
 younger(X,Y):- older(Y,X).
 
 % R was a regent when B was born provided that the birth year (C) of B is between 
@@ -59,11 +59,3 @@ regentWhenBorn(R,B):- born(B,C), reigned(R,S,E), S<C, C<E.
 % C is a cousin of D provided that P is a parent of C, Q is a parent of D, 
 % P and Q are siblings, and C and D are different
 cousin(C,D):- parent(C,P),parent(D,Q),sibling(P,Q), C\=D.
-
-
-
-
-
-
-
-

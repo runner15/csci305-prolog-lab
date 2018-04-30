@@ -44,7 +44,12 @@ X = 'Prince Philip'
 
 13. false.
 
-14. X = 'Queen Victoria' 
+14. 
+WITH NO PEOPLE WHO ARE DEAD:
+X = 'Prince Philip' 
+
+WITH PEOPLE WHO HAVE DIED:
+X = 'Queen Victoria' 
 X = 'Princess Alexandra of Denmark' 
 X = 'Queen Mary' 
 X = 'Mrs Simpson' 
